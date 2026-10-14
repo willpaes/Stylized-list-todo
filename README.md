@@ -58,4 +58,5 @@ https://www.linkedin.com/in/fabio-william-paes-lima-4b31751b4 | https://github.c
 
 ## License
 
-This project was developed for educational purposes.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
