@@ -34,16 +34,11 @@ By the end of this example, you will be able to:
 ## How to Run (Prerequisites)
 To run the project, you must have Node.js installed.
 
-### Installation
+## Installation
 
 Clone the repository:
 
 git clone https://github.com/willpaes/Stylized-list-todo
-
-Navigate to the project folder:
-
-bash
-cd styled-list-todo
 
 ## Technologies Used
 
@@ -59,4 +54,3 @@ https://www.linkedin.com/in/fabio-william-paes-lima-4b31751b4 | https://github.c
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
